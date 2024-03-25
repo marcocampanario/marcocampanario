@@ -1,17 +1,16 @@
 <img src='Hello, I’m Marco.png' alt="banner"></img>
 
 <p align="center">
-I am currently currently pursuing a Master's degree in Biosciences & Biotechnology at Fiocruz.  <a href="(https://marcocampanario.github.io/cv/CV_webpage.pdf)">here</a>.
+I am currently currently pursuing a Master's degree in Biosciences & Biotechnology at Fiocruz.
 </p>
 
-# Hi there 👋
+## Some things about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on breast cancer WES and WGS data analysis from brazilian cohorts
+- 🌱 I’m currently learning python
+- 📫 How to reach me: macscampanario@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am also a urban dancer!
+
+
 
