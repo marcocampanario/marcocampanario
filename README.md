@@ -10,7 +10,7 @@ I am currently currently pursuing a Master's degree in Biosciences & Biotechnolo
 - 🌱 I’m currently learning python
 - 📫 How to reach me: macscampanario@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am also a urban dancer!
+- ⚡ Fun fact: I am also a urban dancer! :)
 
 
 
