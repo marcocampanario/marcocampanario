@@ -4,7 +4,7 @@
 I am currently currently pursuing a Master's degree in Biosciences & Biotechnology at Fiocruz.
 </p>
 
-## Some things about me
+## Some things about me 🧑‍🔬
 
 - 🔭 I’m currently working on breast cancer WES and WGS data analysis from brazilian cohorts
 - 🌱 I’m currently learning python
