@@ -1,7 +1,7 @@
 <img src='Hello, I’m Marco.png' alt="banner"></img>
 
 <p align="center">
-I am currently currently pursuing a Master's degree in Biosciences & Biotechnology at Fiocruz.
+I am currently currently a PhD student at the Federal University of Paraná and Fiocruz.
 </p>
 
 ## Some things about me 🧑‍🔬
